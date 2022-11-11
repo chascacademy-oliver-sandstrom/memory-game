@@ -62,11 +62,12 @@ img:hover {
 
 .reset {
     font-size: 3vw;
-    color:#fff; 
+    color:#efaf43; 
 	text-shadow:0.08em 0.05em 0em #333232;
 	letter-spacing:0.15em;
     background: none;
     border: none;
     display: none; 
+    margin-top: 100px;
 }
 
